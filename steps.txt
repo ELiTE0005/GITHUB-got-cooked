@@ -1,0 +1,22 @@
+npm init
+
+npm i jsonfile
+
+
+npm i moment
+
+
+node index.js
+
+
+
+npm i random
+
+
+npm i lodash
+
+
+
+git pull origin main 
+
+git push origin main 
