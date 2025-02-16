@@ -1,2 +1,2 @@
-# GITHUB-fuckedup
-i fucked my GIT
+# GITHUB-got cooked
+i cooked my GIT
